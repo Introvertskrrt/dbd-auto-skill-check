@@ -1,2 +1,2 @@
-# dbd-auto-skill-check
+# README
 Dead by Daylight Auto Skill Check
